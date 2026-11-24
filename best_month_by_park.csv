@@ -1,0 +1,65 @@
+UnitCode,ParkName,PeakMonth,PeakAvgVisits,BestMonth,BestAvgVisits,PercentQuieterThanPeak,UsableMonths
+ACAD,Acadia National Park,August,685331,May,221589,67.7,6
+ARCH,Arches National Park,June,122004,November,34103,72.0,9
+BADL,Badlands National Park,July,253404,May,75008,70.4,5
+BIBE,Big Bend National Park,March,52294,August,15703,70.0,12
+BISC,Biscayne National Park,July,54086,November,27673,48.8,12
+BLCA,Black Canyon Of The Gunnison National Park,July,49292,October,18719,62.0,6
+BRCA,Bryce Canyon National Park,July,203328,April,84595,58.4,7
+CANY,Canyonlands National Park,May,63709,November,17436,72.6,9
+CARE,Capitol Reef National Park,May,103927,March,37158,64.2,8
+CAVE,Carlsbad Caverns National Park,July,95093,December,24977,73.7,10
+CHIR,Chiricahua National Park,March,9981,December,3677,63.2,12
+CHIS,Channel Islands National Park,August,39244,December,14175,63.9,12
+CONG,Congaree National Park,March,12616,January,6063,51.9,12
+CRLA,Crater Lake National Park,July,121597,October,34046,72.0,5
+CUVA,Cuyahoga Valley National Park,July,272439,December,115384,57.6,12
+DENA,Denali National Park & Preserve,July,130930,September,47733,63.5,4
+DEVA,Death Valley National Park,April,105252,December,62445,40.7,12
+DRTO,Dry Tortugas National Park,May,5484,October,2470,55.0,12
+EVER,Everglades National Park,March,125859,September,42592,66.2,12
+GAAR,Gates Of The Arctic National Park & Preserve,July,2346,June,1613,31.2,3
+GLAC,Glacier National Park,July,617407,September,312741,49.3,4
+GLBA,Glacier Bay National Park & Preserve,July,80867,May,47187,41.6,5
+GRBA,Great Basin National Park,July,17035,April,5359,68.5,7
+GRCA,Grand Canyon National Park,July,588683,December,182657,69.0,10
+GRSA,Great Sand Dunes National Park & Preserve,July,62722,October,18500,70.5,6
+GRSM,Great Smoky Mountains National Park,July,1468738,December,439828,70.1,10
+GRTE,Grand Teton National Park,July,609390,May,171667,71.8,5
+GUMO,Guadalupe Mountains National Park,March,23043,January,8816,61.7,12
+HALE,Haleakalā National Park,July,116412,January,88617,23.9,12
+HAVO,Hawaiʻi Volcanoes National Park,August,138580,September,108379,21.8,12
+HOSP,Hot Springs National Park,July,178594,January,64337,64.0,12
+INDU,Indiana Dunes National Park,July,349538,March,92881,73.4,8
+ISRO,Isle Royale National Park,August,7195,September,1931,73.2,4
+JEFF,Gateway Arch National Park,July,679641,May,210300,69.1,4
+JOTR,Joshua Tree National Park,March,206096,July,72405,64.9,12
+KATM,Katmai National Park & Preserve,July,15054,September,5777,61.6,4
+KEFJ,Kenai Fjords National Park,July,70842,September,27949,60.5,4
+KICA,Kings Canyon National Park,July,123949,April,34417,72.2,7
+KOVA,Kobuk Valley National Park,July,834,February,268,67.8,12
+LACL,Lake Clark National Park & Preserve,August,2981,September,1956,34.4,4
+LAVO,Lassen Volcanic National Park,July,94852,October,32728,65.5,5
+MACA,Mammoth Cave National Park,July,213889,November,63269,70.4,9
+MEVE,Mesa Verde National Park,July,121992,October,40081,67.1,6
+MORA,Mount Rainier National Park,August,312593,October,94257,69.8,5
+NERI,New River Gorge National Park & Preserve,July,195136,April,67100,65.6,7
+NOCA,North Cascades National Park,August,52501,October,14896,71.6,5
+NPSA,National Park of American Samoa,April,1904,June,892,53.1,12
+OLYM,Olympic National Park,August,702155,October,192571,72.6,6
+PEFO,Petrified Forest National Park,July,110519,November,29840,73.0,9
+PINN,Pinnacles National Park,April,27230,December,12036,55.8,12
+REDW,Redwood National and State Parks,July,78282,November,20016,74.4,9
+ROMO,Rocky Mountain National Park,July,681239,May,184404,72.9,6
+SAGU,Saguaro National Park,March,109906,September,36584,66.7,12
+SEQU,Sequoia National Park,July,181862,April,59181,67.5,7
+SHEN,Shenandoah National Park,October,297826,November,101805,65.8,8
+THRO,Theodore Roosevelt National Park,July,128451,October,38777,69.8,6
+VIIS,Virgin Islands National Park,March,67343,September,20230,70.0,12
+VOYA,Voyageurs National Park,July,46529,September,23804,48.8,5
+WHSA,White Sands National Park,March,66433,January,26240,60.5,12
+WICA,Wind Cave National Park,July,139734,May,55914,60.0,5
+WRST,Wrangell - St Elias National Park & Preserve,July,15247,September,6713,56.0,4
+YELL,Yellowstone National Park,July,805440,May,257025,68.1,5
+YOSE,Yosemite National Park,August,562476,November,159620,71.6,8
+ZION,Zion National Park,July,371619,November,135804,63.5,9

@@ -1,0 +1,65 @@
+UnitCode,ParkName,States,ParkCode,InCSV
+ACAD,Acadia National Park,ME,acad,True
+ARCH,Arches National Park,UT,arch,True
+BADL,Badlands National Park,SD,badl,True
+BIBE,Big Bend National Park,TX,bibe,True
+BISC,Biscayne National Park,FL,bisc,True
+BLCA,Black Canyon Of The Gunnison National Park,CO,blca,True
+BRCA,Bryce Canyon National Park,UT,brca,True
+CANY,Canyonlands National Park,UT,cany,True
+CARE,Capitol Reef National Park,UT,care,True
+CAVE,Carlsbad Caverns National Park,NM,cave,True
+CHIS,Channel Islands National Park,CA,chis,True
+CHIR,Chiricahua National Park,AZ,chir,True
+CONG,Congaree National Park,SC,cong,True
+CRLA,Crater Lake National Park,OR,crla,True
+CUVA,Cuyahoga Valley National Park,OH,cuva,True
+DEVA,Death Valley National Park,"CA,NV",deva,True
+DENA,Denali National Park & Preserve,AK,dena,True
+DRTO,Dry Tortugas National Park,FL,drto,True
+EVER,Everglades National Park,FL,ever,True
+GAAR,Gates Of The Arctic National Park & Preserve,AK,gaar,True
+JEFF,Gateway Arch National Park,MO,jeff,True
+GLBA,Glacier Bay National Park & Preserve,AK,glba,True
+GLAC,Glacier National Park,MT,glac,True
+GRCA,Grand Canyon National Park,AZ,grca,True
+GRTE,Grand Teton National Park,WY,grte,True
+GRBA,Great Basin National Park,NV,grba,True
+GRSA,Great Sand Dunes National Park & Preserve,CO,grsa,True
+GRSM,Great Smoky Mountains National Park,"NC,TN",grsm,True
+GUMO,Guadalupe Mountains National Park,TX,gumo,True
+HALE,Haleakalā National Park,HI,hale,True
+HAVO,Hawaiʻi Volcanoes National Park,HI,havo,True
+HOSP,Hot Springs National Park,AR,hosp,True
+INDU,Indiana Dunes National Park,IN,indu,True
+ISRO,Isle Royale National Park,MI,isro,True
+JOTR,Joshua Tree National Park,CA,jotr,True
+KATM,Katmai National Park & Preserve,AK,katm,True
+KEFJ,Kenai Fjords National Park,AK,kefj,True
+KICA,Kings Canyon National Park,CA,kica,True
+KOVA,Kobuk Valley National Park,AK,kova,True
+LACL,Lake Clark National Park & Preserve,AK,lacl,True
+LAVO,Lassen Volcanic National Park,CA,lavo,True
+MACA,Mammoth Cave National Park,KY,maca,True
+MEVE,Mesa Verde National Park,CO,meve,True
+MORA,Mount Rainier National Park,WA,mora,True
+NPSA,National Park of American Samoa,AS,npsa,True
+NERI,New River Gorge National Park & Preserve,WV,neri,True
+NOCA,North Cascades National Park,WA,noca,True
+OLYM,Olympic National Park,WA,olym,True
+PEFO,Petrified Forest National Park,AZ,pefo,True
+PINN,Pinnacles National Park,CA,pinn,True
+REDW,Redwood National and State Parks,CA,redw,True
+ROMO,Rocky Mountain National Park,CO,romo,True
+SAGU,Saguaro National Park,AZ,sagu,True
+SEQU,Sequoia National Park,CA,sequ,True
+SHEN,Shenandoah National Park,VA,shen,True
+THRO,Theodore Roosevelt National Park,ND,thro,True
+VIIS,Virgin Islands National Park,VI,viis,True
+VOYA,Voyageurs National Park,MN,voya,True
+WHSA,White Sands National Park,NM,whsa,True
+WICA,Wind Cave National Park,SD,wica,True
+WRST,Wrangell - St Elias National Park & Preserve,AK,wrst,True
+YELL,Yellowstone National Park,"ID,MT,WY",yell,True
+YOSE,Yosemite National Park,CA,yose,True
+ZION,Zion National Park,UT,zion,True
